@@ -8,6 +8,8 @@ fonts:
   serif: IBM Plex Serif
   mono: Geist Mono
 
+favicon: /favicon.ico
+
 layout: center
 glowSeed: 1
 ---
@@ -25,7 +27,7 @@ class: px-30
 <h1 font-serif>Toby Nguyen</h1>
 
 <div class="opacity-80 flex flex-col gap-5">
-  <div flex gap-2 items-center>Core team member of <div i-skill-icons:aws-light /> AWS Student Builder Group</div>
+  <div flex gap-2 items-center>Core Team <div i-skill-icons:aws-light /> AWS Student Builder Group</div>
   <div flex gap-2 items-center>Working at <img src="./assets/QwiksilverLabs.svg" alt="Qwiksilver Labs" size-5 rounded-md /> Qwiksilver Labs</div>
 </div>
 
